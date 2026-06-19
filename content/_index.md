@@ -37,10 +37,10 @@ sections:
         padding: ['0', '0', '4rem', '0']
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Background'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a Data Analyst and Industrial Engineer with an MBA in Project Management and extensive banking experience. Specialized in data visualization, process optimization, and managing structured business solutions.  
 
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
