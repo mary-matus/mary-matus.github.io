@@ -40,9 +40,9 @@ sections:
       title: '📚 My Background'
       subtitle: ''
       text: |-
-        I am a Data Analyst and Industrial Engineer with an MBA in Project Management and extensive banking experience. Specialized in data visualization, process optimization, and managing structured business solutions.  
+         I’m a data analyst and industrial engineer in banking with an MBA in project management. I blog about data visualization, process optimization, and structured business solutions.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate data-driven financial strategies and operational efficiency in the economy.
 
         Please reach out to collaborate 😃
     design:
