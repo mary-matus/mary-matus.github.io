@@ -14,7 +14,7 @@ status:
   icon: ""
 role: Industrial Engineer
 bio: |
-  Mary Matus is an Industrial Engineer and Data Analyst with an MBA in Project Management and extensive banking experience. Specialized in data visualization, process optimization, and managing structured business solutions.  
+  Mary Matus is an experienced Industrial Engineer and Data Analyst with an MBA in Project Management and extensive banking experience. Specialized in data visualization, process optimization, and managing structured business solutions.  
 
 affiliations:
   - name: Banco General
@@ -56,46 +56,46 @@ education:
     end: 2017-11-01
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
+  - role: Financial Data Analyst
+    org: Banco General
     start: 2020-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Specialized in ensuring that all critical information was processed with total precision under strict standards, always guaranteeing compliance with internal policies and industry regulations.
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Financial Data Analyst
+    org: BAC Credomatic
+    start: 2021-12-01
+    end: 2025-07-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted performance tracking and productivity metrics were successfully automated using integrated data visualization dashboards and reporting tools, ensuring high data quality while providing clear insights for strategic decision-making.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Data Auditing
         level: 5
-      - label: Machine Learning
+      - label: Process Mapping
         level: 5
-      - label: Cloud Computing
+      - label: SOP Development
         level: 4
   - name: Research & Communication
     items:
-      - label: Academic Writing
+      - label: Data Visualization
         level: 5
-      - label: Conference Presentations
+      - label: Risk Analysis
         level: 4
-      - label: Grant Proposals
+      - label: Data Reconciliation
         level: 4
 
 languages:
-  - name: English
+  - name: Spanish
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 5
     label: Fluent
 
 awards:
