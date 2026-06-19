@@ -9,19 +9,16 @@ name:
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: ''
 postnominals:
-  - PhD
-  - MIEEE
+  - MBA
 status:
-  icon: "☕️"
+  icon: ""
 role: Industrial Engineer
 bio: |
-  Mary Matus is an Industrial Engineer at Banco General. Her research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations.
+  Mary Matus is an Industrial Engineer and Data Analyst with an MBA in Project Management and extensive banking experience. Specialized in data visualization, process optimization, and managing structured business solutions.  
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Banco General
+    url: https://www.bgeneral.com/
 
 links:
   - icon: at-symbol
@@ -40,17 +37,21 @@ interests:
 
 education:
   - degree: MBA Project Management
-    institution: Stanford University
+    institution: Aden Business School
     start: 2023-04-01
     end: 2025-06-01
     summary: |
       Developed advanced competencies in corporate strategy, agile project lifecycles, and cross-functional leadership within international business frameworks.
     button:
-      text: Download dissertation
+      text: Download resume
       url: /resume.pdf
       icon: hero/arrow-down-tray
+  - degree: Specialization in Project Management
+    institution: George Washington University
+    start: 2023-04-01
+    end: 2024-01-01
   - degree: BS Industrial Engineering
-    institution: MIT
+    institution: Technological University of Panama
     start: 2012-03-01
     end: 2017-11-01
 
